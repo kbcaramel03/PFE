@@ -1,0 +1,572 @@
+{
+  "DJI_20251229125938_0007_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130056_0008_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130226_0009_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130601_0010_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130706_0011_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130752_0012_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130752_0012_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20251229130752_0012_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20251229130824_0013_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260104182952_0001_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104182952_0001_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104182952_0001_3_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104182952_0001_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183121_0002_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183121_0002_2_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183121_0002_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183316_0003_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": true
+  },
+  "DJI_20260104183316_0003_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183316_0003_3_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183316_0003_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183457_0004_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183457_0004_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183457_0004_4_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": true
+  },
+  "DJI_20260104183842_0006_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104183842_0006_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185611_0001_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260104185611_0001_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185611_0001_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185611_0001_4_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185611_0001_5_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185737_0002_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185813_0003_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185813_0003_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": true
+  },
+  "DJI_20260104185813_0003_3_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185813_0003_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104185813_0003_5_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260104185956_0004_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260104190000_0005_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104190000_0005_2_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104190000_0005_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260104190000_0005_4_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102250_0001_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102505_0002_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102700_0003_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102700_0003_2_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102700_0003_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102925_0004_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102925_0004_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108102925_0004_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260108102925_0004_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260108110305_0001_1_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260108110305_0001_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114141800_0001_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114141928_0002_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114142044_0003_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114142044_0003_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114142126_0004_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114142126_0004_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114142126_0004_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114142918_0001_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_2_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_5_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_6_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_7_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143002_0002_8_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143104_0003_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143104_0003_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143104_0003_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143104_0003_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143104_0003_5_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143138_0004_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143138_0004_2_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143138_0004_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143138_0004_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_1_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_2_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_3_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_4_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_5_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_6_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_7_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_8_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143252_0005_9_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_01_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_06_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_07_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": true,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_08_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_09_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_10_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_11_T.MP4": {
+    "contient_true_positif": false,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_12_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": true,
+    "hs": false
+  },
+  "DJI_20260114143820_0006_13_T.MP4": {
+    "contient_true_positif": true,
+    "contient_false_positif": false,
+    "mouvement_drone": false,
+    "hs": false
+  }
+}

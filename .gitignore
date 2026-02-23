@@ -1,0 +1,47 @@
+data_publique/
+data_pompiers/
+# ===== Python =====
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+dist/
+build/
+
+# ===== Virtual env =====
+.venv/
+venv/
+env/
+
+# ===== Jupyter =====
+.ipynb_checkpoints/
+
+# ===== Logs =====
+*.log
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== VSCode =====
+.vscode/
+
+# ===== ML / YOLO =====
+runs/
+wandb/
+mlruns/
+checkpoints/
+*.pt
+*.pth
+
+# ===== DATASETS =====
+dataset_publique/
+dataset_pompiers/
+data/
+datasets/
+
+# ===== TEMP =====
+tmp/
+temp/
