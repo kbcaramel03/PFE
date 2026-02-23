@@ -29,9 +29,9 @@ Thumbs.db
 .vscode/
 
 # ===== ML / YOLO =====
-runs/
+
 wandb/
-mlruns/
+
 checkpoints/
 *.pt
 *.pth
